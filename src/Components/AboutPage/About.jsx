@@ -17,7 +17,7 @@ const About = () => {
                 <p className='bg-indigo-400 md:p-10 p-3 md:text-justify text-left m-4 first-letter:text-2xl first-letter:text-indigo-800
                                 border-b-4 text-white border-b-indigo-600 rounded-md
                 '>
-                    I'm a front-end web developer with a background in Information Technology from The Federal University of Technology, Akure, Nigeria. <br /> My 4 years of IT experience has given me a strong foundation for web development and building complex solutions. <br /> I'm a self taught Frontend web Readt developer. <br /> I am passionate about coding and solving problems through code, and I am excited to work alongside other amazing programmers and learn so much more!
+                    I'm a front-end web developer with a background in Information Technology from The Federal University of Technology, Akure, Nigeria. <br /> My 4 years of IT experience has given me a strong foundation for web development and building complex solutions. <br /> I'm a self taught Frontend developer with good experience working with React JS. <br /> I am passionate about coding and solving problems through code, and I am excited to work alongside other amazing programmers and learn so much more!
                 </p>
             </div>
         </div>
